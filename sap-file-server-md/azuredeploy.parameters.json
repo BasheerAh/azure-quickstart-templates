@@ -6,10 +6,10 @@
       "value": "DEV"
     },
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "demadm"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Welcome@1234"
     }
   }
 }
